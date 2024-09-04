@@ -69,23 +69,6 @@ Step 3: Import Data to Power BI
 Open Power BI Desktop.
 Import the cleaned data (CSV or Excel) generated from the Python script.
 Build your dashboard using the Power BI interface.
-Project Structure
-
-Spotify-Stream-Analysis/
-│
-├── data/                           # Raw and cleaned datasets
-│   ├── Most Streamed Spotify Songs 2024.csv 
-│   └── Cleaned_Spotify_Data.csv 
-│
-├── notebooks/                      # Jupyter notebooks for data cleaning and preparation
-│   └── DataCleaning.ipynb
-│
-├── visuals/                        # Power BI reports and visualizations
-│   └── Spotify_Stream_Dashboard.pbix
-│
-├── README.md                       # Project documentation
-└── requirements.txt                # Python dependencies
-
 
 ## Insights & Results
 Some initial insights that can be derived from the project:
